@@ -1,5 +1,5 @@
 # SuperHero-Hunter-App
-# Superhero-Hunter-App-Coding-Ninjas
+# SuperHero-Hunter-App
 Created an Superhero Hunting app. Marvel API is used to fetch the data of marvel characters.
 User can perform multiple task in this app.
 * Search Characters 
