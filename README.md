@@ -12,6 +12,6 @@ User can perform multiple task in this app.
 * Scripting/Programming - Javascript
 * IDE - VSCode
    
-### Link for website: superhero-hunter-app-ak.netlify.app
+### Link for website: https://superhero-hunter-app-ak.netlify.app
 
 ## Preview of Project...
